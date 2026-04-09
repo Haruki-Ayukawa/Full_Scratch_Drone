@@ -14,7 +14,7 @@
 - 基板 → SnapMagicなどでパーツのデータを収集し、KiCADで回路図及びPCB基板を設計後、JLCPCBに発注しました。
 - 実装 → ホットプレートやペーストはんだを用いて表面実装しました。
 
-詳細は[control-boardフォルダ]()をご覧ください。
+詳細は[control-boardフォルダ](control-board)をご覧ください。
 
 ## フレーム
 - 設計 → Fusionで設計しました。

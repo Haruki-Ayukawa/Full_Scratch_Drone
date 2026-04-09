@@ -20,7 +20,7 @@
 - 設計 → Fusionで設計しました。
 - 製造 → 3Dプリンタ(RAISE3D E2　ノズル径0.4mm　フィラメントPLA黒色)で造形しました。
 
-詳細は[frameフォルダ](https://github.com/Haruki-Ayukawa/Full_Scratch_Drone/tree/main/frame)をご覧ください。
+詳細は[frameフォルダ](frame)をご覧ください。
 
 ## モータ
 - 部品 → [直径8.5mm　長さ20mm　3~5V](https://amzn.asia/d/07lUeh3T)

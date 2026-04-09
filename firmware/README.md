@@ -63,7 +63,7 @@ MadgwickfilterAHRS.hライブラリの関数をそのまま使っています。
 - BLE通信で指令値更新 → センサの読み取り → MWFで姿勢角取得 → PID計算してモータ出力 → 各種デバッグ送信　を回すvoid loop()関数
 
 が書かれています。<br>
-細かい動作仕様は[内の](https://github.com/Haruki-Ayukawa/Example_MITAppInventor_for_DroneController/tree/main)
+細かい動作仕様は[Example_MITAppInventor_for_DroneController](https://github.com/Haruki-Ayukawa/Example_MITAppInventor_for_DroneController/tree/main)
 内のREADMEから飛べるYouTube動画も併せてご覧ください。
 
 #### struct.hファイル
